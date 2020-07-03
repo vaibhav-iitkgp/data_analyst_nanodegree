@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Prosper loan data exploration
+## by Vaibhav Gupta
 
 
 ## Dataset
